@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab7-2</string>
+    <string name="fc">體指計算機</string>
+    <string name="tall">身高</string>
+    <string name="heavy">體重</string>
+    <string name="boy">男生</string>
+    <string name="girl">女生</string>
+    <string name="c">計算</string>
+    <string name="com">標準體重\n無</string>
+    <string name="fat">體脂肪\n無</string>
+    <string name="num">0%</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinHW4</string>
+    <string name="trans_tv_name">name</string>
+    <string name="iv_name">name</string>
+    <string name="cubee_tv_name">name</string>
+</resources>

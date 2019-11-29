@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinHW4_2</string>
+    <string name="start">開始</string>
+    <string name="turtle">烏龜</string>
+    <string name="bunny">兔子</string>
+    <string name="race">龜兔賽跑</string>
+</resources>

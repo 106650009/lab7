@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="race">龜兔賽跑</string>
+    <string name="racer">兔子</string>
+    <string name="t">烏龜</string>
+    <string name="start">開始</string>
+</resources>
